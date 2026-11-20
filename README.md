@@ -11,7 +11,7 @@ Benvenuto nel mio repository hub personale! Qui trovi tutte le mie applicazioni 
 
 | Dettaglio | Informazione |
 | :--- | :--- |
-| **Versione attuale** | `v0.1.37` |
+| **Versione attuale** | `v0.1.40` |
 | **Requisiti minimi** | Android 8.0 (API 26+) |
 | **Tecnologie** | Kotlin, Jetpack Compose, Room, Hilt, Material You, Gemini AI |
 | **Download APK** | [⬇️ Scarica Ultima Release](https://github.com/ccorvino3/WatchedTracker/releases/latest) |
