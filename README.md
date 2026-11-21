@@ -32,11 +32,11 @@ Benvenuto nel mio repository hub personale! Qui trovi tutte le mie applicazioni 
 
 | Dettaglio | Informazione |
 | :--- | :--- |
-| **Versione attuale** | `v2.0.2` |
+| **Versione attuale** | `v2.0.3` |
 | **Requisiti minimi** | Android 10 (API 29+); AR con dispositivi compatibili ARCore; smartwatch Wear OS 3+ opzionale |
 | **Tecnologie** | Kotlin, Jetpack Compose, ARCore, SceneView (Filament), Wear OS Data Layer |
-| **APK smartphone** | [⬇️ HEARTS-phone-release-v2.0.2-3.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.2-3/HEARTS-phone-release-v2.0.2-3.apk) |
-| **APK smartwatch (opzionale)** | [⬇️ HEARTS-wear-release-v2.0.2-3.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.2-3/HEARTS-wear-release-v2.0.2-3.apk) |
+| **APK smartphone** | [⬇️ HEARTS-mobile-release-v2.0.3-4.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.3-4/HEARTS-mobile-release-v2.0.3-4.apk) |
+| **APK smartwatch (opzionale)** | [⬇️ HEARTS-wear-release-v2.0.3-4.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.3-4/HEARTS-wear-release-v2.0.3-4.apk) |
 
 #### Funzionalità principali:
 - 🫀 **Scenari guidati ERC 2025**: BLS-D adulto con DAE, RCP bambino e lattante, soffocamento, posizione laterale di sicurezza, allenamento libero e quiz.
