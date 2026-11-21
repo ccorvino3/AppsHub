@@ -26,6 +26,30 @@ Benvenuto nel mio repository hub personale! Qui trovi tutte le mie applicazioni 
 
 ---
 
+<!-- HEARTS:START -->
+### ❤️ HEARTS (Hands-on Emergency AR Training Simulator)
+> *Impara la rianimazione cardiopolmonare e il primo soccorso con un'istruttrice virtuale in realtà aumentata o in 3D, con feedback in tempo reale su ritmo e profondità.*
+
+| Dettaglio | Informazione |
+| :--- | :--- |
+| **Versione attuale** | `v2.0.1` |
+| **Requisiti minimi** | Android 10 (API 29+); AR con dispositivi compatibili ARCore; smartwatch Wear OS 3+ opzionale |
+| **Tecnologie** | Kotlin, Jetpack Compose, ARCore, SceneView (Filament), Wear OS Data Layer |
+| **APK telefono** | [⬇️ HEARTS-phone-release-v2.0.1-2.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.1-2/HEARTS-phone-release-v2.0.1-2.apk) |
+| **APK smartwatch (opzionale)** | [⬇️ HEARTS-wear-release-v2.0.1-2.apk](https://github.com/ccorvino3/AppsHub/releases/download/hearts-v2.0.1-2/HEARTS-wear-release-v2.0.1-2.apk) |
+
+#### Funzionalità principali:
+- 🫀 **Scenari guidati ERC 2025**: BLS-D adulto con DAE, RCP bambino e lattante, soffocamento, posizione laterale di sicurezza, allenamento libero e quiz.
+- 📱 **AR e 3D**: manichino e istruttrice Olivia sul pavimento reale oppure in una scena 3D su qualsiasi telefono.
+- 📈 **Feedback in tempo reale**: metronomo, ritmo, profondità stimata dai sensori del telefono o dello smartwatch, vibrazione e voce.
+- 🏅 **Punteggio e storico**: report PDF/CSV, grafici e progressi nel tempo.
+- 🔒 **Privacy**: tutto in locale, nessun permesso internet.
+
+> ⚠️ Solo per allenamento: non sostituisce un corso certificato e non va usata in un'emergenza reale.
+<!-- HEARTS:END -->
+
+---
+
 ## 📥 Come Installare gli APK su Android
 
 1. Scarica il file `.apk` dalla tabella qui sopra o dalla sezione [Releases](../../releases).
